@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Giang (Clairie) Bui!
 
-💡 Marketing & Data Analytics Enthusiast | 📊 Aspiring Data Analyst | 🎯 Passionate Problem Solver
+💡 Marketing & Data Analytics Enthusiast | 📊 Aspiring Data Analyst | 🎯 Passionate Content Creator
 
 🔍 I’m currently pursuing a Master of Commerce (Extension) at the University of Sydney, majoring in Marketing & Data Analytics for Business. 
 

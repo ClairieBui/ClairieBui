@@ -2,29 +2,17 @@
 
 👋 Hi, I'm Giang (Clairie) Bui!
 
-💡 Marketing & Data Analytics Enthusiast | 📊 Aspiring Data Analyst | 🎯 Passionate Content Creator
+📊 Marketing & Data Analytics Enthusiast | Aspiring Data Analyst | Passionate Content Creator
 
-🔍 I’m currently pursuing a Master of Commerce (Extension) at the University of Sydney, majoring in Marketing & Data Analytics for Business. 
+🔍 Master of Commerce (Extension) | University of Sydney
 
-💻 What I’m working on:
+💡 Passionate about leveraging data analytics to drive business decisions.
 
-📈 Exploring data analytics techniques to drive business impact
+🚀 Skills & Tools:
 
-🔎 Understanding consumer behavior and market trends through data
+SQL | Tableau | Power BI | Excel | Marketing Analytics | Data Visualization
 
-📊 Enhancing my skills in Excel, SQL, and data visualization
-
-🚀 Tech & Tools I Use:
-
-SQL | Tableau | Power BI | Excel
-
-Data Analysis | Machine Learning Basics | Marketing Analytics
-
-🌱 Currently Learning:
-
-Advanced Data Visualization & Predictive Analytics
-
-AI applications in Marketing
+📈 Exploring consumer behavior, market trends & business impact through data!
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009616475266) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_gianggbui_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giang-bui-828302277/)

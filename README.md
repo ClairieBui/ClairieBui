@@ -10,7 +10,9 @@
 
 🚀 Skills & Tools:
 
-SQL | Tableau | Power BI | Excel | Marketing Analytics | Data Visualization
+SQL | Tableau | Power BI | Excel 
+
+Marketing Analytics | Data Visualization
 
 📈 Exploring consumer behavior, market trends & business impact through data!
 

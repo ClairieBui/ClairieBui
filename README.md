@@ -10,7 +10,7 @@
 
 🚀 Skills & Tools:
 
-SQL | Tableau | Power BI | Excel 
+SQL | Tableau | Power BI | Excel | Python
 
 Marketing Analytics | Data Visualization
 
